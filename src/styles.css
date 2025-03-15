@@ -21,9 +21,10 @@ img {
 }
 h1 {
     font-family: "Lexend Exa", sans-serif;
-    letter-spacing: -14px;
+    letter-spacing: -1px;
     font-size: 10vw;
     text-align: left;
+    line-height: 1;
     margin-bottom: 12px;
     text-transform: uppercase;
     
