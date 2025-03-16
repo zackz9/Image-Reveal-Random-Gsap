@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "gsap": "^3.12.7",
+    "html-webpack-plugin": "^5.6.3",
     "lenis": "^1.2.3",
     "vite": "^6.2.2",
     "webpack": "^5.98.0",
